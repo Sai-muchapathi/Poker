@@ -1,0 +1,60 @@
+body {
+        font-size: 100%;
+        border: 3px solid blue;
+        padding: 0 2em 1em;
+        margin: 0px 340px;    
+}
+
+img {
+    padding: 20px;
+    margin: 2px 2px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+}
+
+button {
+    background-color: orange;
+    padding: 0px 20px;
+}
+
+.board {
+    height: 330px;
+}
+
+.child {
+    display: inline-block;
+}
+
+.childReset {
+    float: right;
+    margin-right: 20px;
+    text-align: right;
+}
+#images {
+padding: 45px 0px;
+}
+
+#top {
+    padding-top: 35px;
+}
+
+
+#options {
+    width: 70px;
+}
+
+.board {
+    background-color: green;
+    padding-bottom: 0px;
+}
+
+.heading {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#score {
+    padding: 5px;
+}
